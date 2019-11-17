@@ -1,0 +1,6 @@
+#ignoring output folders
+output/
+#ignore read me files
+README.txt
+
+
